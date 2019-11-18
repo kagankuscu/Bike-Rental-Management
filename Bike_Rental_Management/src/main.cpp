@@ -28,6 +28,6 @@ int main(int argc, char const* argv[]) {
 		}
 	}
 
-	_getche();
+	char c = _getche();
 	return 0;
 }
